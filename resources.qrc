@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/back.500d33d7f3b099cbb2d1.jpg</file>
+        <file>img/logolo.png</file>
+        <file>img/profile.jpg</file>
+        <file>img/logo.png</file>
+        <file>img/user.png</file>
+        <file>img/enter-outline.svg</file>
+        <file>img/person-circle-outline.svg</file>
+        <file>img/cart-outline.svg</file>
+        <file>img/cube.svg</file>
+        <file>img/today-outline.svg</file>
+        <file>img/newspaper-outline.svg</file>
+        <file>img/person-circle.svg</file>
+        <file>img/logo-closed-captioning.svg</file>
+        <file>img/people-outline.svg</file>
+        <file>img/logo-usd.svg</file>
+        <file>img/person-outline.svg</file>
+        <file>img/reader.svg</file>
+        <file>img/business.svg</file>
+        <file>img/reader-outline.svg</file>
+        <file>img/calculator-sharp.svg</file>
+        <file>img/power-sharp.svg</file>
+        <file>img/return-up-back-sharp.svg</file>
+        <file>img/copy-sharp.svg</file>
+        <file>img/add-sharp.svg</file>
+        <file>img/download-outline.svg</file>
+        <file>img/information-circle-outline.svg</file>
+        <file>img/home-outline.svg</file>
+    </qresource>
+</RCC>
